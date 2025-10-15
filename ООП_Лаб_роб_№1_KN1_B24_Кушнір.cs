@@ -1,5 +1,5 @@
 using System;
-class HelloWorld {
+class Math {
 	static void Main() {
 	    Console.Write("Введіть два цілих Числа\n");
 		int a = int.Parse(Console.ReadLine());
@@ -16,4 +16,5 @@ class HelloWorld {
 			j = i - j;
 		}
 	}
+
 }
